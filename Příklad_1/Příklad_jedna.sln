@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Příklad_jedna", "Příklad_jedna\Příklad_jedna.csproj", "{D2D379A4-592B-4BFF-8B1F-AFD1EB5A1E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D379A4-592B-4BFF-8B1F-AFD1EB5A1E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D379A4-592B-4BFF-8B1F-AFD1EB5A1E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D379A4-592B-4BFF-8B1F-AFD1EB5A1E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D379A4-592B-4BFF-8B1F-AFD1EB5A1E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B96360-5E35-49DA-83C8-17632B6BD34D}
+	EndGlobalSection
+EndGlobal
