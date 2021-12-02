@@ -18,3 +18,13 @@ C:\Users\janma\OneDrive\Plocha\Priklad_4\Priklad_4\obj\Debug\Priklad_4.csproj.Ge
 C:\Users\janma\OneDrive\Plocha\Priklad_4\Priklad_4\obj\Debug\Priklad_4.csproj.CoreCompileInputs.cache
 C:\Users\janma\OneDrive\Plocha\Priklad_4\Priklad_4\obj\Debug\Priklad_4.exe
 C:\Users\janma\OneDrive\Plocha\Priklad_4\Priklad_4\obj\Debug\Priklad_4.pdb
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\bin\Debug\Priklad_4.exe.config
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\bin\Debug\Priklad_4.exe
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\bin\Debug\Priklad_4.pdb
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.csproj.AssemblyReference.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.Form1.resources
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.exe
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_4\Priklad_4\obj\Debug\Priklad_4.pdb

@@ -18,3 +18,13 @@ C:\Users\janma\OneDrive\Plocha\Priklad_3\Priklad_3\obj\Debug\Priklad_3.Form1.res
 C:\Users\janma\OneDrive\Plocha\Priklad_3\Priklad_3\obj\Debug\Priklad_3.Properties.Resources.resources
 C:\Users\janma\OneDrive\Plocha\Priklad_3\Priklad_3\obj\Debug\Priklad_3.csproj.GenerateResource.cache
 C:\Users\janma\OneDrive\Plocha\Priklad_3\Priklad_3\obj\Debug\Priklad_3.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\bin\Debug\Priklad_3.exe.config
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\bin\Debug\Priklad_3.exe
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\bin\Debug\Priklad_3.pdb
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.csproj.AssemblyReference.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.Form1.resources
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.exe
+C:\Users\janma\OneDrive\Plocha\lol\Priklad_3\Priklad_3\obj\Debug\Priklad_3.pdb

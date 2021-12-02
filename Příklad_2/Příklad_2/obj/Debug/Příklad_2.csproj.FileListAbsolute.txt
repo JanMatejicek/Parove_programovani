@@ -8,3 +8,13 @@ C:\Users\janma\OneDrive\Plocha\Příklad_2\Příklad_2\obj\Debug\Příklad_2.csp
 C:\Users\janma\OneDrive\Plocha\Příklad_2\Příklad_2\obj\Debug\Příklad_2.csproj.CoreCompileInputs.cache
 C:\Users\janma\OneDrive\Plocha\Příklad_2\Příklad_2\obj\Debug\Příklad_2.exe
 C:\Users\janma\OneDrive\Plocha\Příklad_2\Příklad_2\obj\Debug\Příklad_2.pdb
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\bin\Debug\Příklad_2.exe.config
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\bin\Debug\Příklad_2.exe
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\bin\Debug\Příklad_2.pdb
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.csproj.AssemblyReference.cache
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.Form1.resources
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.Properties.Resources.resources
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.exe
+C:\Users\janma\OneDrive\Plocha\lol\Příklad_2\Příklad_2\obj\Debug\Příklad_2.pdb
