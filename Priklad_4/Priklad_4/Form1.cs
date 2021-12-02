@@ -34,9 +34,6 @@ namespace Priklad_4
                     vys2 *= c2;
                     vys3 *= c3;
                 }
-                /*if(cislo == 1){vys = c1;vys2 = c2;vys3 = c3;}
-                if(cislo == 2){vys2 = c2 * c2; vys = c1 * c1;vys3 = c3 * c3;}
-                if(cislo == 3){vys3 = c3 * c3 * c3;vys = c1 * c1 * c1;vys2 = c2 * c2 * c2;}*/
                 textBox1.Text = vys.ToString();
                 textBox2.Text = vys2.ToString();
                 textBox3.Text = vys3.ToString();
